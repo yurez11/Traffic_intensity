@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.090,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\traffic_intensityPCH1.h=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\trafic_intensity_code.h=C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\trafic_intensity_code.cpp=C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.cpp=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\trafic_intensity_code.dfm=C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\traffic_intensity.cbproj=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.h=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,C:\Users\Sinit\Desktop\kursovaya\KURSOVAYA_POSLEDNIY\Unit1.dfm=C:\Users\Sinit\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
